@@ -1,5 +1,5 @@
 <p align="center">
-  ![hi](https://media.giphy.com/media/l0MYR7ATNClP1GjcI/giphy.gif)
+![hi](https://media.giphy.com/media/l0MYR7ATNClP1GjcI/giphy.gif)
 </p>
   
 <h3 align="center"> Hi!
