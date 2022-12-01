@@ -1,6 +1,6 @@
 
 
-<h3 align="center"> Hi!👋 :wave_lightbrown: 
+<h3 align="center"> Hi!👋 :wave_light_brown: 
 <h3 align="center"> 🐙🐉🌳👹🦝☠️🍄  
 <h3 align="center"> I'm Nicolás</h1>
 <h4 align="center">Data Scientist & Economist</h3>
