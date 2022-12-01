@@ -1,6 +1,6 @@
-<p align="center">
-![hi](https://media.giphy.com/media/l0MYR7ATNClP1GjcI/giphy.gif)
-</p>
+
+(https://media.giphy.com/media/l0MYR7ATNClP1GjcI/giphy.gif)
+
   
 <h3 align="center"> Hi!
 <h3 align="center"> 🐙🐉🌳👹🦝☠️🍄  
