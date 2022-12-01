@@ -1,6 +1,7 @@
-
-![hi](https://media.giphy.com/media/l0MYR7ATNClP1GjcI/giphy.gif)
-
+<p align="center">
+  ![hi](https://media.giphy.com/media/l0MYR7ATNClP1GjcI/giphy.gif)
+</p>
+  
 <h3 align="center"> Hi!
 <h3 align="center"> 🐙🐉🌳👹🦝☠️🍄  
 <h3 align="center"> I'm Nicolás</h1>
