@@ -1,5 +1,5 @@
 
-![hi](<img align="left" width="100" height="150" src="https://media.giphy.com/media/l0MYR7ATNClP1GjcI/giphy.gif">)
+![hi](https://media.giphy.com/media/l0MYR7ATNClP1GjcI/giphy.gif)
 
 <h3 align="center"> Hi!
 <h3 align="center"> 🐙🐉🌳👹🦝☠️🍄  
