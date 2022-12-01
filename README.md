@@ -1,7 +1,7 @@
-<h2 align="center"> Hi! 
-<h2 align="center"> 👋🐉🌳🦝☠️  
-<h2 align="center"> I'm Nicolás</h1>
-<h3 align="center">Data Scientist & Economist</h3>
+<h3 align="center"> Hi! 
+<h3 align="center"> 👋🐉🌳🦝☠️  
+<h3 align="center"> I'm Nicolás</h1>
+<h4 align="center">Data Scientist & Economist</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
